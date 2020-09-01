@@ -23391,7 +23391,7 @@
    "referenced_type" : "_ZTIKi",
    "self_type" : "_ZTIPKi",
    "size" : 4,
-   "source_file" : "/external/libyuv/files/include/libyuv/mjpeg_decoder.h"
+   "source_file" : "/external/libyuv/files/include/libyuv/row.h"
   },
   {
    "alignment" : 4,

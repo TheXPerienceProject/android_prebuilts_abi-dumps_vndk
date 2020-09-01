@@ -2,6 +2,14 @@
  "array_types" :
  [
   {
+   "alignment" : 1,
+   "linker_set_key" : "_ZTIA0_c",
+   "name" : "char [0]",
+   "referenced_type" : "_ZTIc",
+   "self_type" : "_ZTIA0_c",
+   "source_file" : "/system/core/liblog/include/log/log_read.h"
+  },
+  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIA0_i",
    "name" : "int [0]",
@@ -10237,7 +10245,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssDebugAll.sdump"
     },
     {
      "default_arg" : true,
@@ -10305,7 +10313,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssDebugAll.sdump"
     },
     {
      "default_arg" : true,
@@ -10358,7 +10366,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssDebugAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -10412,7 +10420,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssDebugAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -12016,7 +12024,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12084,7 +12092,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12137,7 +12145,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -12191,7 +12199,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -12271,7 +12279,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12339,7 +12347,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12392,7 +12400,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -12446,7 +12454,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -12624,7 +12632,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12692,7 +12700,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12745,7 +12753,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -12799,7 +12807,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -12928,7 +12936,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofencingAll.sdump"
     },
     {
      "default_arg" : true,
@@ -12996,7 +13004,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofencingAll.sdump"
     },
     {
      "default_arg" : true,
@@ -13049,7 +13057,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofencingAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -13103,7 +13111,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofencingAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -13183,7 +13191,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -13251,7 +13259,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -13304,7 +13312,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -13358,7 +13366,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -14999,7 +15007,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementAll.sdump"
     },
     {
      "default_arg" : true,
@@ -15067,7 +15075,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementAll.sdump"
     },
     {
      "default_arg" : true,
@@ -15120,7 +15128,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -15174,7 +15182,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -15750,7 +15758,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -15818,7 +15826,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -15871,7 +15879,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -15925,7 +15933,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -16005,7 +16013,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -16073,7 +16081,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -16126,7 +16134,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -16180,7 +16188,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -17410,7 +17418,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssConfigurationAll.sdump"
     },
     {
      "default_arg" : true,
@@ -17478,7 +17486,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssConfigurationAll.sdump"
     },
     {
      "default_arg" : true,
@@ -17531,7 +17539,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssConfigurationAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -17585,7 +17593,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssConfigurationAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -19704,7 +19712,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -19772,7 +19780,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -19825,7 +19833,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -19879,7 +19887,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -19959,7 +19967,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofenceCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -20027,7 +20035,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofenceCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -20080,7 +20088,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofenceCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -20134,7 +20142,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofenceCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -20375,7 +20383,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageAll.sdump"
     },
     {
      "default_arg" : true,
@@ -20443,7 +20451,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageAll.sdump"
     },
     {
      "default_arg" : true,
@@ -20496,7 +20504,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -20550,7 +20558,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -21849,7 +21857,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -21917,7 +21925,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -21970,7 +21978,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -22024,7 +22032,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -22986,7 +22994,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -23054,7 +23062,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageCallbackAll.sdump"
     },
     {
      "default_arg" : true,
@@ -23107,7 +23115,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageCallbackAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -23161,7 +23169,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -23682,7 +23690,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssAll.sdump"
     },
     {
      "default_arg" : true,
@@ -23750,7 +23758,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssAll.sdump"
     },
     {
      "default_arg" : true,
@@ -23803,7 +23811,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -23857,7 +23865,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -24290,7 +24298,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiAll.sdump"
     },
     {
      "default_arg" : true,
@@ -24358,7 +24366,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiAll.sdump"
     },
     {
      "default_arg" : true,
@@ -24411,7 +24419,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -24465,7 +24473,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -26509,7 +26517,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilAll.sdump"
     },
     {
      "default_arg" : true,
@@ -26577,7 +26585,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilAll.sdump"
     },
     {
      "default_arg" : true,
@@ -26630,7 +26638,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -26684,7 +26692,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -26764,7 +26772,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraAll.sdump"
     },
     {
      "default_arg" : true,
@@ -26832,7 +26840,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraAll.sdump"
     },
     {
      "default_arg" : true,
@@ -26885,7 +26893,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraAll.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -26939,7 +26947,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraAll.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -27753,7 +27761,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -27778,7 +27786,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -27803,7 +27811,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -27828,7 +27836,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssDebugAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -27853,7 +27861,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -27878,7 +27886,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -27903,7 +27911,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -27928,7 +27936,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofencingAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -27953,7 +27961,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -27978,7 +27986,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -28003,7 +28011,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -28028,7 +28036,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -28053,7 +28061,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssConfigurationAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -28078,7 +28086,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -28103,7 +28111,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofenceCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -28128,7 +28136,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -28153,7 +28161,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -28178,7 +28186,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageCallbackAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -28203,7 +28211,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssAll.sdump"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -29038,7 +29046,7 @@
    "referenced_type" : "_ZTIKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE",
    "self_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE",
    "size" : 8,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++_headers/gen/android/hardware/gnss/1.0/IGnssNavigationMessage.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++_headers/gen/android/hardware/gnss/1.0/IAGnss.h"
   },
   {
    "alignment" : 8,
@@ -29534,13 +29542,167 @@
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssConfigurationAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssConfigurationAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssDebugAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssDebugAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofenceCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofenceCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofencingAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofencingAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraCallbackAll.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraCallbackAll.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
+   "name" : "const iter<is_const> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/types.sdump",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/types.sdump",
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "name" : "const android::hardware::hidl_vec<android::hardware::hidl_string> &",
    "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "self_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "size" : 8,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++_headers/gen/android/hardware/gnss/1.0/IGnssNavigationMessage.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++_headers/gen/android/hardware/gnss/1.0/IAGnss.h"
   },
   {
    "alignment" : 8,
@@ -29589,10 +29751,397 @@
   },
   {
    "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssConfigurationAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssConfigurationAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssDebugAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssDebugAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofenceCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofenceCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofencingAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofencingAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
+  },
+  {
+   "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssConfigurationAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssConfigurationAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssDebugAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssDebugAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofenceCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofenceCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofencingAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofencingAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraCallbackAll.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
+   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/types.sdump",
+   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/types.sdump",
    "size" : 8,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -29648,7 +30197,7 @@
    "referenced_type" : "_ZTIKh",
    "self_type" : "_ZTIRKh",
    "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h"
   },
   {
    "alignment" : 8,
@@ -30287,7 +30836,7 @@
    "referenced_type" : "_ZTIj",
    "self_type" : "_ZTIRj",
    "size" : 8,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++_headers/gen/android/hardware/gnss/1.0/IGnssNiCallback.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++_headers/gen/android/hardware/gnss/1.0/IAGnssRilCallback.h"
   },
   {
    "alignment" : 8,
@@ -30305,7 +30854,7 @@
    "referenced_type" : "_ZTIt",
    "self_type" : "_ZTIRt",
    "size" : 8,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++_headers/gen/android/hardware/gnss/1.0/IGnssNavigationMessageCallback.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++_headers/gen/android/hardware/gnss/1.0/types.h"
   }
  ],
  "pointer_types" :
@@ -32324,7 +32873,7 @@
    "referenced_type" : "_ZTIN7android8hardware4gnss4V1_010BnHwGnssNiE",
    "self_type" : "_ZTIPN7android8hardware4gnss4V1_010BnHwGnssNiE",
    "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++_headers/gen/android/hardware/gnss/1.0/BnHwGnssNi.h"
   },
   {
    "alignment" : 8,
@@ -32396,7 +32945,7 @@
    "referenced_type" : "_ZTIN7android8hardware4gnss4V1_012BnHwGnssXtraE",
    "self_type" : "_ZTIPN7android8hardware4gnss4V1_012BnHwGnssXtraE",
    "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++_headers/gen/android/hardware/gnss/1.0/BnHwGnssXtra.h"
   },
   {
    "alignment" : 8,
@@ -32873,7 +33422,7 @@
    "referenced_type" : "_ZTIN7android8hardware4gnss4V1_025BnHwGnssNavigationMessageE",
    "self_type" : "_ZTIPN7android8hardware4gnss4V1_025BnHwGnssNavigationMessageE",
    "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++_headers/gen/android/hardware/gnss/1.0/BnHwGnssNavigationMessage.h"
   },
   {
    "alignment" : 8,
@@ -33449,7 +33998,7 @@
    "referenced_type" : "_ZTIh",
    "self_type" : "_ZTIPh",
    "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/Parcel.h"
   },
   {
    "alignment" : 8,
@@ -35336,7 +35885,7 @@
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "self_type" : "_ZTIKN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "size" : 16,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++_headers/gen/android/hardware/gnss/1.0/IGnssNavigationMessage.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++_headers/gen/android/hardware/gnss/1.0/IAGnss.h"
   },
   {
    "alignment" : 8,
@@ -35843,6 +36392,226 @@
    "is_const" : true,
    "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
    "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/AGnssRilCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssBatchingCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssConfigurationAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssConfigurationAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssDebugAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssDebugAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofenceCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofenceCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofencingAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssGeofencingAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssMeasurementCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNavigationMessageCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssNiCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraCallbackAll.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/GnssXtraCallbackAll.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
+   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/types.sdump",
+   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/gnss/1.0/android.hardware.gnss@1.0_genc++/gen/android/hardware/gnss/1.0/types.sdump",
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
+   "name" : "android::RefBase::weakref_impl *const",
    "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE",
    "self_type" : "_ZTIKPN7android7RefBase12weakref_implE",
    "size" : 8,
@@ -35936,7 +36705,7 @@
    "referenced_type" : "_ZTIh",
    "self_type" : "_ZTIKh",
    "size" : 1,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h"
   },
   {
    "alignment" : 4,
@@ -36081,6 +36850,11 @@
      "field_name" : "uid",
      "field_offset" : 192,
      "referenced_type" : "_ZTIj"
+    },
+    {
+     "field_name" : "msg",
+     "field_offset" : 224,
+     "referenced_type" : "_ZTIA0_c"
     }
    ],
    "linker_set_key" : "_ZTI12logger_entry",
@@ -59169,7 +59943,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
@@ -59209,7 +59983,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<const native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<const native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
@@ -59249,7 +60023,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<const char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<const char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
@@ -59289,7 +60063,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLm32EJEEEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLm32EJEEEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLm32EJEEEEUt_E",
@@ -59329,7 +60103,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_11hidl_stringEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_string>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_string>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_11hidl_stringEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_11hidl_stringEEUt_E",
@@ -59369,7 +60143,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<GrantorDescriptor>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<GrantorDescriptor>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
@@ -59409,7 +60183,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_4gnss4V1_010IGnssDebug13SatelliteDataEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<SatelliteData>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<SatelliteData>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_4gnss4V1_010IGnssDebug13SatelliteDataEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_4gnss4V1_010IGnssDebug13SatelliteDataEEUt_E",
@@ -59449,7 +60223,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_4gnss4V1_012GnssLocationEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<GnssLocation>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<GnssLocation>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_4gnss4V1_012GnssLocationEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_4gnss4V1_012GnssLocationEEUt_E",
@@ -59489,7 +60263,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIcEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIcEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIcEUt_E",
@@ -59529,7 +60303,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIhEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<unsigned char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<unsigned char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIhEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIhEUt_E",
@@ -59569,7 +60343,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIiEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<int>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "name" : "android::hardware::details::hidl_pointer<int>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIiEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIiEUt_E",
@@ -60293,7 +61067,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7log_msgUt_E",
-   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:77:3)",
+   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:81:3)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7log_msgUt_E",
    "self_type" : "_ZTIN7log_msgUt_E",
