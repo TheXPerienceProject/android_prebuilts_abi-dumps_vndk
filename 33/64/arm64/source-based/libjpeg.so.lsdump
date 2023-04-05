@@ -373,6 +373,10 @@
  "elf_functions" :
  [
   {
+   "binding" : "weak",
+   "name" : "__emutls_get_address"
+  },
+  {
    "name" : "jcopy_block_row"
   },
   {
@@ -4821,7 +4825,7 @@
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIPs"
+     "referenced_type" : "_ZTIPt"
     },
     {
      "referenced_type" : "_ZTIPm"
@@ -4848,7 +4852,7 @@
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIPs"
+     "referenced_type" : "_ZTIPt"
     },
     {
      "referenced_type" : "_ZTIPm"
@@ -4875,7 +4879,7 @@
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIPs"
+     "referenced_type" : "_ZTIPt"
     },
     {
      "referenced_type" : "_ZTIPm"
@@ -4902,7 +4906,7 @@
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIPs"
+     "referenced_type" : "_ZTIPt"
     },
     {
      "referenced_type" : "_ZTIPm"
@@ -7500,6 +7504,15 @@
    "self_type" : "_ZTIPs",
    "size" : 8,
    "source_file" : "external/libjpeg-turbo/jpegint.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIPt",
+   "name" : "unsigned short *",
+   "referenced_type" : "_ZTIt",
+   "self_type" : "_ZTIPt",
+   "size" : 8,
+   "source_file" : "external/libjpeg-turbo/jsimd.h"
   },
   {
    "alignment" : 8,
