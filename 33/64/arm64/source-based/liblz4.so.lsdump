@@ -2,13 +2,22 @@
  "array_types" :
  [
   {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIA2052_Pv",
-   "name" : "void *[2052]",
-   "referenced_type" : "_ZTIPv",
-   "self_type" : "_ZTIA2052_Pv",
+   "alignment" : 1,
+   "linker_set_key" : "_ZTIA16416_c",
+   "name" : "char[16416]",
+   "referenced_type" : "_ZTIc",
+   "self_type" : "_ZTIA16416_c",
    "size" : 16416,
    "source_file" : "external/lz4/lib/lz4.h"
+  },
+  {
+   "alignment" : 1,
+   "linker_set_key" : "_ZTIA262200_c",
+   "name" : "char[262200]",
+   "referenced_type" : "_ZTIc",
+   "self_type" : "_ZTIA262200_c",
+   "size" : 262200,
+   "source_file" : "external/lz4/lib/lz4hc.h"
   },
   {
    "alignment" : 4,
@@ -29,13 +38,13 @@
    "source_file" : "external/lz4/lib/lz4hc.h"
   },
   {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIA32775_Pv",
-   "name" : "void *[32775]",
-   "referenced_type" : "_ZTIPv",
-   "self_type" : "_ZTIA32775_Pv",
-   "size" : 262200,
-   "source_file" : "external/lz4/lib/lz4hc.h"
+   "alignment" : 1,
+   "linker_set_key" : "_ZTIA32_c",
+   "name" : "char[32]",
+   "referenced_type" : "_ZTIc",
+   "self_type" : "_ZTIA32_c",
+   "size" : 32,
+   "source_file" : "external/lz4/lib/lz4.h"
   },
   {
    "alignment" : 4,
@@ -81,15 +90,6 @@
    "self_type" : "_ZTIA4_m",
    "size" : 32,
    "source_file" : "external/lz4/lib/xxhash.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIA4_y",
-   "name" : "unsigned long long[4]",
-   "referenced_type" : "_ZTIy",
-   "self_type" : "_ZTIA4_y",
-   "size" : 32,
-   "source_file" : "external/lz4/lib/lz4.h"
   },
   {
    "alignment" : 2,
@@ -239,10 +239,19 @@
    "name" : "LZ4F_createCDict"
   },
   {
+   "name" : "LZ4F_createCDict_advanced"
+  },
+  {
    "name" : "LZ4F_createCompressionContext"
   },
   {
+   "name" : "LZ4F_createCompressionContext_advanced"
+  },
+  {
    "name" : "LZ4F_createDecompressionContext"
+  },
+  {
+   "name" : "LZ4F_createDecompressionContext_advanced"
   },
   {
    "name" : "LZ4F_decompress"
@@ -285,6 +294,9 @@
   },
   {
    "name" : "LZ4F_resetDecompressionContext"
+  },
+  {
+   "name" : "LZ4F_uncompressedUpdate"
   },
   {
    "name" : "LZ4_attach_HC_dictionary"
@@ -429,6 +441,12 @@
   },
   {
    "name" : "LZ4_decompress_safe_partial"
+  },
+  {
+   "name" : "LZ4_decompress_safe_partial_forceExtDict"
+  },
+  {
+   "name" : "LZ4_decompress_safe_partial_usingDict"
   },
   {
    "name" : "LZ4_decompress_safe_usingDict"
@@ -579,6 +597,9 @@
   },
   {
    "name" : "XXH_versionNumber"
+  },
+  {
+   "name" : "read_long_length_no_check"
   }
  ],
  "elf_objects" : [],
@@ -691,10 +712,18 @@
     },
     {
      "enum_field_value" : 20,
-     "name" : "LZ4F_ERROR_maxCode"
+     "name" : "LZ4F_ERROR_compressionState_uninitialized"
     },
     {
      "enum_field_value" : 21,
+     "name" : "LZ4F_ERROR_parameter_null"
+    },
+    {
+     "enum_field_value" : 22,
+     "name" : "LZ4F_ERROR_maxCode"
+    },
+    {
+     "enum_field_value" : 23,
      "name" : "_LZ4F_dummy_error_enum_for_c89_never_used"
     }
    ],
@@ -824,7 +853,45 @@
    "underlying_type" : "_ZTIj"
   }
  ],
- "function_types" : [],
+ "function_types" :
+ [
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFPvS_mE",
+   "name" : "void *(void *, unsigned long)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPv"
+    },
+    {
+     "referenced_type" : "_ZTIm"
+    }
+   ],
+   "referenced_type" : "_ZTIFPvS_mE",
+   "return_type" : "_ZTIPv",
+   "self_type" : "_ZTIFPvS_mE",
+   "source_file" : "external/lz4/lib/lz4frame.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvPvS_E",
+   "name" : "void (void *, void *)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPv"
+    },
+    {
+     "referenced_type" : "_ZTIPv"
+    }
+   ],
+   "referenced_type" : "_ZTIFvPvS_E",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvPvS_E",
+   "source_file" : "external/lz4/lib/lz4frame.h"
+  }
+ ],
  "functions" :
  [
   {
@@ -1026,6 +1093,24 @@
    "source_file" : "external/lz4/lib/lz4frame.h"
   },
   {
+   "function_name" : "LZ4F_createCDict_advanced",
+   "linker_set_key" : "LZ4F_createCDict_advanced",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTI14LZ4F_CustomMem"
+    },
+    {
+     "referenced_type" : "_ZTIPKv"
+    },
+    {
+     "referenced_type" : "_ZTIm"
+    }
+   ],
+   "return_type" : "_ZTIP12LZ4F_CDict_s",
+   "source_file" : "external/lz4/lib/lz4frame.h"
+  },
+  {
    "function_name" : "LZ4F_createCompressionContext",
    "linker_set_key" : "LZ4F_createCompressionContext",
    "parameters" :
@@ -1041,6 +1126,21 @@
    "source_file" : "external/lz4/lib/lz4frame.h"
   },
   {
+   "function_name" : "LZ4F_createCompressionContext_advanced",
+   "linker_set_key" : "LZ4F_createCompressionContext_advanced",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTI14LZ4F_CustomMem"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "return_type" : "_ZTIP11LZ4F_cctx_s",
+   "source_file" : "external/lz4/lib/lz4frame.h"
+  },
+  {
    "function_name" : "LZ4F_createDecompressionContext",
    "linker_set_key" : "LZ4F_createDecompressionContext",
    "parameters" :
@@ -1053,6 +1153,21 @@
     }
    ],
    "return_type" : "_ZTIm",
+   "source_file" : "external/lz4/lib/lz4frame.h"
+  },
+  {
+   "function_name" : "LZ4F_createDecompressionContext_advanced",
+   "linker_set_key" : "LZ4F_createDecompressionContext_advanced",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTI14LZ4F_CustomMem"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "return_type" : "_ZTIP11LZ4F_dctx_s",
    "source_file" : "external/lz4/lib/lz4frame.h"
   },
   {
@@ -1178,7 +1293,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIj"
+     "referenced_type" : "_ZTI18LZ4F_blockSizeID_t"
     }
    ],
    "return_type" : "_ZTIm",
@@ -1272,6 +1387,33 @@
     }
    ],
    "return_type" : "_ZTIv",
+   "source_file" : "external/lz4/lib/lz4frame.h"
+  },
+  {
+   "function_name" : "LZ4F_uncompressedUpdate",
+   "linker_set_key" : "LZ4F_uncompressedUpdate",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP11LZ4F_cctx_s"
+    },
+    {
+     "referenced_type" : "_ZTIPv"
+    },
+    {
+     "referenced_type" : "_ZTIm"
+    },
+    {
+     "referenced_type" : "_ZTIPKv"
+    },
+    {
+     "referenced_type" : "_ZTIm"
+    },
+    {
+     "referenced_type" : "_ZTIPK22LZ4F_compressOptions_t"
+    }
+   ],
+   "return_type" : "_ZTIm",
    "source_file" : "external/lz4/lib/lz4frame.h"
   },
   {
@@ -2226,6 +2368,36 @@
    "source_file" : "external/lz4/lib/lz4.h"
   },
   {
+   "function_name" : "LZ4_decompress_safe_partial_usingDict",
+   "linker_set_key" : "LZ4_decompress_safe_partial_usingDict",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPKc"
+    },
+    {
+     "referenced_type" : "_ZTIPc"
+    },
+    {
+     "referenced_type" : "_ZTIi"
+    },
+    {
+     "referenced_type" : "_ZTIi"
+    },
+    {
+     "referenced_type" : "_ZTIi"
+    },
+    {
+     "referenced_type" : "_ZTIPKc"
+    },
+    {
+     "referenced_type" : "_ZTIi"
+    }
+   ],
+   "return_type" : "_ZTIi",
+   "source_file" : "external/lz4/lib/lz4.h"
+  },
+  {
    "function_name" : "LZ4_decompress_safe_usingDict",
    "linker_set_key" : "LZ4_decompress_safe_usingDict",
    "parameters" :
@@ -3012,6 +3184,24 @@
   },
   {
    "alignment" : 8,
+   "linker_set_key" : "_ZTIPFPvS_mE",
+   "name" : "void *(*)(void *, unsigned long)",
+   "referenced_type" : "_ZTIFPvS_mE",
+   "self_type" : "_ZTIPFPvS_mE",
+   "size" : 8,
+   "source_file" : "external/lz4/lib/lz4frame.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIPFvPvS_E",
+   "name" : "void (*)(void *, void *)",
+   "referenced_type" : "_ZTIFvPvS_E",
+   "self_type" : "_ZTIPFvPvS_E",
+   "size" : 8,
+   "source_file" : "external/lz4/lib/lz4frame.h"
+  },
+  {
+   "alignment" : 8,
    "linker_set_key" : "_ZTIPK12LZ4F_CDict_s",
    "name" : "const LZ4F_CDict_s *",
    "referenced_type" : "_ZTIK12LZ4F_CDict_s",
@@ -3209,7 +3399,7 @@
    "name" : "const LZ4F_CDict_s",
    "referenced_type" : "_ZTI12LZ4F_CDict_s",
    "self_type" : "_ZTIK12LZ4F_CDict_s",
-   "size" : 24,
+   "size" : 56,
    "source_file" : "external/lz4/lib/lz4frame.h"
   },
   {
@@ -3241,6 +3431,16 @@
    "self_type" : "_ZTIK13XXH64_state_s",
    "size" : 88,
    "source_file" : "external/lz4/lib/xxhash.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIK14LZ4F_CustomMem",
+   "name" : "const LZ4F_CustomMem",
+   "referenced_type" : "_ZTI14LZ4F_CustomMem",
+   "self_type" : "_ZTIK14LZ4F_CustomMem",
+   "size" : 32,
+   "source_file" : "external/lz4/lib/lz4frame.h"
   },
   {
    "alignment" : 8,
@@ -3358,8 +3558,8 @@
    "fields" :
    [
     {
-     "field_name" : "table",
-     "referenced_type" : "_ZTIA2052_Pv"
+     "field_name" : "minStateSize",
+     "referenced_type" : "_ZTIA16416_c"
     },
     {
      "field_name" : "internal_donotuse",
@@ -3486,8 +3686,39 @@
    "fields" :
    [
     {
-     "field_name" : "table",
-     "referenced_type" : "_ZTIA32775_Pv"
+     "field_name" : "customAlloc",
+     "referenced_type" : "_ZTIPFPvS_mE"
+    },
+    {
+     "field_name" : "customCalloc",
+     "field_offset" : 64,
+     "referenced_type" : "_ZTIPFPvS_mE"
+    },
+    {
+     "field_name" : "customFree",
+     "field_offset" : 128,
+     "referenced_type" : "_ZTIPFvPvS_E"
+    },
+    {
+     "field_name" : "opaqueState",
+     "field_offset" : 192,
+     "referenced_type" : "_ZTIPv"
+    }
+   ],
+   "linker_set_key" : "_ZTI14LZ4F_CustomMem",
+   "name" : "LZ4F_CustomMem",
+   "referenced_type" : "_ZTI14LZ4F_CustomMem",
+   "self_type" : "_ZTI14LZ4F_CustomMem",
+   "size" : 32,
+   "source_file" : "external/lz4/lib/lz4frame.h"
+  },
+  {
+   "alignment" : 8,
+   "fields" :
+   [
+    {
+     "field_name" : "minStateSize",
+     "referenced_type" : "_ZTIA262200_c"
     },
     {
      "field_name" : "internal_donotuse",
@@ -3621,8 +3852,8 @@
    "fields" :
    [
     {
-     "field_name" : "table",
-     "referenced_type" : "_ZTIA4_y"
+     "field_name" : "minStateSize",
+     "referenced_type" : "_ZTIA32_c"
     },
     {
      "field_name" : "internal_donotuse",
@@ -3656,12 +3887,12 @@
      "referenced_type" : "_ZTIPKh"
     },
     {
-     "field_name" : "base",
+     "field_name" : "prefixStart",
      "field_offset" : 2097216,
      "referenced_type" : "_ZTIPKh"
     },
     {
-     "field_name" : "dictBase",
+     "field_name" : "dictStart",
      "field_offset" : 2097280,
      "referenced_type" : "_ZTIPKh"
     },
@@ -3717,24 +3948,24 @@
      "referenced_type" : "_ZTIA4096_j"
     },
     {
-     "field_name" : "currentOffset",
-     "field_offset" : 131072,
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "field_name" : "tableType",
-     "field_offset" : 131104,
-     "referenced_type" : "_ZTIj"
-    },
-    {
      "field_name" : "dictionary",
-     "field_offset" : 131136,
+     "field_offset" : 131072,
      "referenced_type" : "_ZTIPKh"
     },
     {
      "field_name" : "dictCtx",
-     "field_offset" : 131200,
+     "field_offset" : 131136,
      "referenced_type" : "_ZTIPK21LZ4_stream_t_internal"
+    },
+    {
+     "field_name" : "currentOffset",
+     "field_offset" : 131200,
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "field_name" : "tableType",
+     "field_offset" : 131232,
+     "referenced_type" : "_ZTIj"
     },
     {
      "field_name" : "dictSize",
@@ -3779,9 +4010,19 @@
      "referenced_type" : "_ZTIj"
     },
     {
-     "field_name" : "reserved",
+     "field_name" : "skipChecksums",
      "field_offset" : 32,
-     "referenced_type" : "_ZTIA3_j"
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "field_name" : "reserved1",
+     "field_offset" : 64,
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "field_name" : "reserved0",
+     "field_offset" : 96,
+     "referenced_type" : "_ZTIj"
     }
    ],
    "linker_set_key" : "_ZTI24LZ4F_decompressOptions_t",
@@ -3800,14 +4041,14 @@
      "referenced_type" : "_ZTIPKh"
     },
     {
-     "field_name" : "extDictSize",
+     "field_name" : "prefixEnd",
      "field_offset" : 64,
-     "referenced_type" : "_ZTIm"
+     "referenced_type" : "_ZTIPKh"
     },
     {
-     "field_name" : "prefixEnd",
+     "field_name" : "extDictSize",
      "field_offset" : 128,
-     "referenced_type" : "_ZTIPKh"
+     "referenced_type" : "_ZTIm"
     },
     {
      "field_name" : "prefixSize",
